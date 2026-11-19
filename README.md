@@ -20,8 +20,4 @@
  <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-%23515151?style=for-the-badge&logo=fastapi&logoColor=%2300ccb7">
 <hr>
 
-<a href="https://discord.com/invite/j4uzpe7BMQ" target="_blank">
-  <p align="center"><b>Current activity:</b></p>
-  <img src="https://discord.c99.nl/widget/theme-3/329698690421751809.png"></img>
-</a>
 </div>
